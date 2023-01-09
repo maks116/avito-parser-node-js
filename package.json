@@ -36,6 +36,10 @@
   "author": "Jakub Synowiec <jsynowiec@users.noreply.github.com>",
   "license": "Apache-2.0",
   "dependencies": {
+    "@types/jsdom": "^20.0.1",
+    "axios": "^1.2.2",
+    "firebase": "^9.15.0",
+    "jsdom": "^21.0.0",
     "tslib": "~2.4"
   },
   "volta": {
